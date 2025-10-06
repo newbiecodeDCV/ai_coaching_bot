@@ -42,9 +42,7 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Database
-*.sqlite
-*.db
+
 
 # FAISS
 faiss_index/
